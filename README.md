@@ -12,4 +12,4 @@ Analysis is done on the following parameters
 -Customer/Company spending 
 
 
-![Revenue Dashboard](image/Revenue_dashboard.JPG)
+![Revenue_dashboard](image/Revenue_dashboard.JPG)
