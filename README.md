@@ -11,4 +11,4 @@ Analysis is done on the following parameters
 -Course share
 -Customer/Company spending 
 
-![Revenue_dashboard](Revenue_dashboard/Revenue_dashboard/image/Revenue_dashboard.JPG)
+![Revenue_dashboard](image/Revenue_dashboard.JPG)
